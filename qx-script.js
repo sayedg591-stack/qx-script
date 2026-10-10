@@ -1,7 +1,7 @@
 (function () {
     'use strict';
 
-	// FIREBASE Code
+	// FIREBASE Code   
     const firebaseConfig = {
         apiKey: "AIzaSyB6YoTIJH7v-I2Wub4bc2_nS5LLuPagarY",
         authDomain: "tjone-23938.firebaseapp.com",
