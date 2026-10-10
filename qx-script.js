@@ -9,7 +9,7 @@
         projectId: "tjone-23938",
         storageBucket: "tjone-23938.firebasestorage.app",
         messagingSenderId: "759655137456",
-        appId: "1:759655137456:web:757c171f298fee00a6bb75"
+        appId: "1:759655137456:web:757c171f298fee00a6bb75"  
     };
 
     // Initialize only once
